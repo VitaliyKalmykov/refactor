@@ -17,5 +17,8 @@ if (summer())<br>
   charge = summerCharge();<br>
 else<br>
   charge = regularCharge();<br>
+  
+## Example 
 
-## Example of 
+<img width="726" height="711" alt="image" src="https://github.com/user-attachments/assets/d3f50710-fe98-43f6-8cdf-61aaec99cb4a" />
+
