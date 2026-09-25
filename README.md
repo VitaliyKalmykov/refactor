@@ -17,3 +17,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 
 ## Simplify Conditional Logic
 [Consolidating](consolidate-conditional-expression.md)
+[Decompose Conditional](decompose-conditional.md)
