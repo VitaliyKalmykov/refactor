@@ -14,3 +14,5 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Extract Function](extract-function.md)<br>
 [Inline Function](inline-function.md)<br>
 [Combine Functions Into Transform](combine-functions-into-transform.md)<br>
+
+## Simplify Conditional Logic
