@@ -16,3 +16,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Combine Functions Into Transform](combine-functions-into-transform.md)<br>
 
 ## Simplify Conditional Logic
+[Consolidating](consolidate-conditional-expression.md)
