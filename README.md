@@ -19,4 +19,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Consolidating](consolidate-conditional-expression.md)<br>
 [Decompose Conditional](decompose-conditional.md)<br>
 [Assertion](introduce-assertion.md)<br>
-[Nested Conditions Handling](handling-nested-condition.md)
+[Nested Conditions Handling](handling-nested-condition.md) <br>
