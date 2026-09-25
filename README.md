@@ -3,4 +3,5 @@ This repository will contain guidelines for refactoring code—how to make code 
 
 [Introduce Parameter Object](introduce-parameter-object.md) <br>
 [Inline Variable](inline-variable.md) <br>
-[Extract Variable](extract-variable.md)
+[Extract Variable](extract-variable.md) <br>
+[Inline Function](inline-function.md) <br>
