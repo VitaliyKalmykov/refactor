@@ -8,3 +8,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Encapsulate Variable](encapsulate-variable.md)
 [Inline Function](inline-function.md) <br>
 [Change function declaration](change-function-declaration.md)
+[Extract Function](extract-function.md)
