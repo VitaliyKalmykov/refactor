@@ -20,3 +20,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Decompose Conditional](decompose-conditional.md)<br>
 [Assertion](introduce-assertion.md)<br>
 [Nested Conditions Handling](handling-nested-condition.md) <br>
+[Replace Control Flag With Break] <br>
