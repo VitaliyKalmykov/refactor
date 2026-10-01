@@ -21,3 +21,6 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Assertion](introduce-assertion.md)<br>
 [Nested Conditions Handling](handling-nested-condition.md) <br>
 [Replace Control Flag With Break](replace-control-flag-with-break.md) <br>
+
+## Remove
+
