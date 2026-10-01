@@ -23,6 +23,6 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Replace Control Flag With Break](replace-control-flag-with-break.md) <br>
 
 ## Remove
-[Remove dead code](remove-dead-code.md)
-[Remove control flag](remove-control-flag.md)
+[Remove dead code](remove-dead-code.md) <br>
+[Remove control flag](remove-control-flag.md) <br>
 
