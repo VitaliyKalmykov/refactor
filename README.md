@@ -26,3 +26,6 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Remove dead code](remove-dead-code.md) <br>
 [Remove control flag](remove-control-flag.md) <br>
 
+## Errors 
+
+
