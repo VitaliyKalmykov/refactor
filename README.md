@@ -27,5 +27,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Remove control flag](remove-control-flag.md) <br>
 
 ## Errors 
-
-
+[Replace Error Code With Exception](replace error-code-with-exception.md) <br>
