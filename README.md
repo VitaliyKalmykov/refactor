@@ -32,3 +32,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 ## Parameters
 [Preserve Whole Object](preserve-whole-object.md)<br>
 [Replace Query With Parameters](replace-query-with-parameters.md)<br>
+[Replace Parameter With Query](replace-parameter-with-query.md)<br>
