@@ -30,4 +30,4 @@ This repository will contain guidelines for refactoring code—how to make code 
 [Replace Error Code With Exception](replace-error-code-with-exception.md) <br>
 [Replace Exception with Precheck](replace-exception-with-precheck.md) <br>
 ## Parameters
-[Preserve Whole Object]
+[Preserve Whole Object](preserve-whole-object.md)<br>
